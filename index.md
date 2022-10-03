@@ -13,8 +13,8 @@ Austin Middle School Network Analysis([images/![AustinMiddleSchool_NetworkAnalys
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Split Panel Burned Vegetation](https://nikollarsen.users.earthengine.app/view/burnedvegetation)
+
 
 ---
 
